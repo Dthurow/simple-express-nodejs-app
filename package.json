@@ -1,0 +1,20 @@
+{
+  "name": "simplest-express-app",
+  "description": "An express project",
+  "version": "1.0.0",
+  "author": "Danielle <dan.thurow@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node site.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ],
+  "devDependencies": {}
+}
